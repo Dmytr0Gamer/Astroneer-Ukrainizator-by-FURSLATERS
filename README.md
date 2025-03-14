@@ -8,7 +8,7 @@
  * **Lina** - перекладачка
 
 # ЯК УСТАНОВИТИ?
-1. Завантажте файл _**«Astro-WindowsNoEditor_Ukr.pak»**_.
+1. Завантажте файл [Astro-WindowsNoEditor_Ukr.pak»](https://github.com/Dmytr0Gamer/Astroneer-Ukrainizator-by-FURSLATERS/raw/refs/heads/main/Astro-WindowsNoEditor_Ukr.pak).
 2. Закиньте завантажений файл за шляхом **_«.../Steam/steamapps/common/ASTRONEER/Astro/Content/Paks»_**. \
  2.1 Якщо ви вже встановлювали переклад, тоді просто підтвердьте заміну файлу.
 3. Запускайте гру та насолоджуйтеся перекладом.
